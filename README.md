@@ -2,9 +2,13 @@
 
 An intelligent and interactive web-based chatbot that allows users to upload Excel or CSV files and ask natural language questions about their data — all processed locally using lightweight AI models.
 
-This project was developed with the help of an **AI-assisted development workflow**, combining human creativity with intelligent guidance tools to design, refine, and optimize each part of the system. It represents a balanced collaboration between **human logic** and **AI precision**.
+This project initially began as part of an internship assignment but was redesigned, expanded, and completed independently based on my personal interest and curiosity in AI-powered data interaction. What started as a small task evolved into a full-fledged, functional chatbot system — designed, refined, and tested with attention to both usability and intelligence.
 
-Built as a practical exploration of AI-driven data interaction, the chatbot integrates **Flask**, **Pandas**, and **Cohere embeddings** to deliver dynamic insights in a conversational, human-friendly interface.
+Developed through an AI-assisted development workflow, this project represents a balanced collaboration between human creativity and AI precision. While the majority of the codebase was generated and iteratively refined with AI tools, the core logic design, testing, integration, and interface improvements were carried out manually by me. This approach reflects how AI can be used as a creative partner — not a replacement — in building meaningful technology.
+
+Built as a practical exploration of AI-driven data interaction, the chatbot integrates Flask, Pandas, and Cohere embeddings to deliver dynamic insights in a conversational, human-friendly interface.
+
+Through this project, I learned how AI assistance can accelerate technical problem-solving while allowing space for human intuition, design thinking, and innovation — making it both a learning milestone and a proud example of responsible AI collaboration in development.
 
 ---
 
