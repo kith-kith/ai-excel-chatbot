@@ -50,13 +50,12 @@ Due to limited system configuration, it currently uses smaller AI models — whi
 At present, I’m not planning to upgrade this particular version, but the project remains a great example of building a functional AI application with limited resources.
 
 
-🖼️ Demo Screenshots
+## 🖼️ Demo Screenshots  
 
+| File Upload Success | Query Response Example |
+|----------------------|------------------------|
+| ![File Upload](screenshots/file_upload_success.png) | ![Query Response](screenshots/query_response_example.png) |
 
-Here’s a quick look at the chatbot interface and its functionality 👇
-
-![Upload Success](screenshots/file_upload_success.png) 
-![Query Response](screenshots/query_response_example.png)
 
 Example folder structure:
 
